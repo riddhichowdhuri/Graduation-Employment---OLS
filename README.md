@@ -1,6 +1,5 @@
 # Determinants of Graduate Unemployment: A Cross-Country OLS Analysis
-
-**Course project — Econometrics (Group B2)**
+Riddhi Chowdhuri
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Determinants of Graduate Unemployment: A Cross-Country OLS Analysis
 
-Cross-country OLS analysis of graduate unemployment determinants — tertiary enrollment, labour market conditions, and macroeconomic indicators — with full diagnostic testing in Stata.
+Cross-country OLS analysis of graduate unemployment determinants: tertiary enrollment, labour market conditions, and macroeconomic indicators, with full diagnostic testing in Stata.
 
 ## Research question
 Do labour-market conditions (employment-to-population ratio), macroeconomic conditions (inflation, GDP per capita), and the scale of higher education (tertiary enrollment) predict how high a country's graduate unemployment rate is?

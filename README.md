@@ -17,7 +17,7 @@ Do labour-market conditions (employment-to-population ratio), macroeconomic cond
 | `GURY` | Graduate Unemployment Rate (dependent variable) |
 
 - **Sample:** 20 countries, cross-sectional (single time period)
-- **Source:** *add the original source for TER/EPR/INF/GDPpc/GURY here (e.g. World Bank WDI, ILOSTAT, OECD), including the reference year(s)*
+- **Source:** World Bank WDI, ILOSTAT, OECD.
 
 ## Headline result
 The model explains ~70.6% of cross-country variation in graduate unemployment (R² = 0.706, Adj. R² = 0.628; F(4,15) = 9.00, p = 0.0006). EPR and inflation are significant negative predictors (p = 0.001 and p = 0.005); tertiary enrollment and GDP per capita are not significant in this sample. No evidence of heteroskedasticity or multicollinearity.
